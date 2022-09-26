@@ -2,7 +2,7 @@
 - 👀 I'm interested in web programming.
 - 🌱 I am currently learning: PHP, JS and Python.
 - 💞️ I currently work with a web developer and I am a student of medium/advanced programming.
-- 📫 Contact me at: bussines.cesardev@gmail.com.
+- 📫 Contact me at: business.cesardev@gmail.com.
 
 
 <!---
